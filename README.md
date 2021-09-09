@@ -1,5 +1,3 @@
-# Project_Cpp_Arcade
-
 # Projet en CPP de 1 mois en groupe 
 
 # But du projet : Créer sa propre borne d'arcade avec les jeux "PacMan" et "Nibbler"
